@@ -78,3 +78,5 @@ To help you get your feet wet and get you familiar with our contribution process
 React is [MIT licensed](./LICENSE).
 
 **Edit** This file has been edited by Easton Hans
+
+**Edit 2** Updated for dev branch
